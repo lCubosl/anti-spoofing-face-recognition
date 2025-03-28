@@ -21,3 +21,7 @@ How to operate:
 12. Go to main.py and change model to that path (ex: model = YOLO("../models/n_version2.pt"))
 13. If main.py doesn't run, try  changing the value '0' in cap = cv2.VideoCapture(0) to 1, 2 or 3
 14. If you've followed every step, your program should detect real and fake faces
+
+folder structure should look like this (except "TestingScripts" folder)
+You may run into problems if "Dataset" isn't structured exactly as shown in the picture
+![alt text](image.png)
