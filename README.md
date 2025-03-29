@@ -24,4 +24,6 @@ How to operate:
 
 folder structure should look like this (except "TestingScripts" folder)
 You may run into problems if "Dataset" isn't structured exactly as shown in the picture
+
 ![alt text](image.png)
+<video controls src="demo_01.mp4" title="Title"></video>
